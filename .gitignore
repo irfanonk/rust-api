@@ -1,0 +1,14 @@
+/target/
+/.idea/
+/.vscode/
+/Cargo.lock
+/vendor/
+*.swp
+*.swo
+*.tmp
+*.log
+.env
+doc/
+.DS_Store
+Thumbs.db
+.idea/workspace.xml
